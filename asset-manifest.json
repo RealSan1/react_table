@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactTalbe/static/css/main.b6d98ea5.css",
-    "main.js": "/ReactTalbe/static/js/main.07183e80.js",
-    "static/js/453.d532a7eb.chunk.js": "/ReactTalbe/static/js/453.d532a7eb.chunk.js",
-    "index.html": "/ReactTalbe/index.html",
-    "main.b6d98ea5.css.map": "/ReactTalbe/static/css/main.b6d98ea5.css.map",
-    "main.07183e80.js.map": "/ReactTalbe/static/js/main.07183e80.js.map",
-    "453.d532a7eb.chunk.js.map": "/ReactTalbe/static/js/453.d532a7eb.chunk.js.map"
+    "main.css": "/react_tabl/static/css/main.b6d98ea5.css",
+    "main.js": "/react_tabl/static/js/main.dabcfb54.js",
+    "static/js/453.d532a7eb.chunk.js": "/react_tabl/static/js/453.d532a7eb.chunk.js",
+    "index.html": "/react_tabl/index.html",
+    "main.b6d98ea5.css.map": "/react_tabl/static/css/main.b6d98ea5.css.map",
+    "main.dabcfb54.js.map": "/react_tabl/static/js/main.dabcfb54.js.map",
+    "453.d532a7eb.chunk.js.map": "/react_tabl/static/js/453.d532a7eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6d98ea5.css",
-    "static/js/main.07183e80.js"
+    "static/js/main.dabcfb54.js"
   ]
 }
